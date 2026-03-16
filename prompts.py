@@ -1,7 +1,3 @@
-“””
-M?dulo de prompts para generaci?n de im?genes de modelos con remeras.
-Mantiene consistencia en: modelo, prenda, iluminaci?n y fondo.
-“””
 
 from typing import Optional
 
