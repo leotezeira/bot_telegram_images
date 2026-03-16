@@ -1,7 +1,4 @@
-“””
-TShirt Mockup Bot - Telegram Bot para generar im?genes de modelos con remeras
-Conecta con APIs gratuitas de generaci?n de im?genes (Hugging Face Inference API)
-“””
+
 
 import os
 import io
